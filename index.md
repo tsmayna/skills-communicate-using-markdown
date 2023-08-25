@@ -11,3 +11,7 @@ I changed this file to include an introduction from me
 ``` c++
 int drinkCount = 4;
 ```
+
+- [X] Log into Github
+- [ ] Complete 1st module
+- [ ] Complete 2nd module
